@@ -1,0 +1,21 @@
+/* Write your code here. */
+.app-container {
+  display: flex;
+  margin: 40px;
+}
+.selected-image {
+  width: 100%;
+}
+.heading {
+  color: rgb(30, 22, 22);
+  font-family: 'Roboto';
+}
+.description {
+  color: rgb(76, 68, 68);
+  font-family: 'Roboto';
+}
+.thumbnail-list {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
